@@ -58,8 +58,6 @@ Um dos maiores perrengues foi o seletor de matéria/categoria (o "Picker"). O co
 
 Outro ponto foi pensar no que acontece quando a API falha — não queria que o app simplesmente travasse ou mostrasse uma tela em branco se o MockAPI ficasse fora do ar, então implementei um fallback local com aviso pro usuário. Foi a primeira vez que parei pra pensar nesse tipo de cenário de "coisa dando errado" com mais cuidado, e não só no caminho feliz.
 
-<!-- Espaço pra você personalizar: se teve algo mais específico que te deu trabalho (ex: navegação, layout responsivo, alguma tela específica), troca esse trecho pelo que rolou de verdade. Isso é o que mais diferencia o README de "gerado" pra "escrito por quem fez". -->
-
 ## Estrutura do projeto
 
 ```
